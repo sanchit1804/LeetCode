@@ -10,6 +10,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
+| [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,4 +35,8 @@ LeetCode Only
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sanchit1804/LeetCode/tree/master/0100-same-tree) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
