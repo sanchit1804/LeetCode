@@ -9,6 +9,7 @@ LeetCode Only
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanchit1804/LeetCode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sanchit1804/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -40,4 +41,8 @@ LeetCode Only
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sanchit1804/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
