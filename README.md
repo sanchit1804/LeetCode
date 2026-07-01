@@ -12,6 +12,7 @@ LeetCode Only
 | [0001-two-sum](https://github.com/sanchit1804/LeetCode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sanchit1804/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 ## Dynamic Programming
@@ -46,6 +47,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanchit1804/LeetCode/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -58,6 +60,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -66,4 +69,8 @@ LeetCode Only
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
