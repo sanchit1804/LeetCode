@@ -11,6 +11,7 @@ LeetCode Only
 | ------- |
 | [0001-two-sum](https://github.com/sanchit1804/LeetCode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
+| [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -48,6 +49,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanchit1804/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
@@ -60,6 +62,7 @@ LeetCode Only
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## String
@@ -71,6 +74,7 @@ LeetCode Only
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Counting
 |  |
@@ -80,4 +84,12 @@ LeetCode Only
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanchit1804/LeetCode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
