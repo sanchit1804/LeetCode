@@ -10,6 +10,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanchit1804/LeetCode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sanchit1804/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
 | [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -87,6 +88,7 @@ LeetCode Only
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sanchit1804/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
