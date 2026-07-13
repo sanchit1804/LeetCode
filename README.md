@@ -85,6 +85,7 @@ LeetCode Only
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/sanchit1804/LeetCode/tree/master/0567-permutation-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanchit1804/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sanchit1804/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sorting
 |  |
 | ------- |
