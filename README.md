@@ -19,6 +19,7 @@ LeetCode Only
 | [0376-wiggle-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/sanchit1804/LeetCode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0682-baseball-game](https://github.com/sanchit1804/LeetCode/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/sanchit1804/LeetCode/tree/master/0860-lemonade-change) |
 | [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -57,6 +58,7 @@ LeetCode Only
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sanchit1804/LeetCode/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -105,6 +107,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanchit1804/LeetCode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/sanchit1804/LeetCode/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
 | ------- |
