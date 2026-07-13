@@ -27,6 +27,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +81,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanchit1804/LeetCode/tree/master/0020-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/sanchit1804/LeetCode/tree/master/0567-permutation-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanchit1804/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -110,6 +112,7 @@ LeetCode Only
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sanchit1804/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/sanchit1804/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
