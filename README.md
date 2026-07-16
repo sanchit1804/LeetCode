@@ -80,6 +80,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/sanchit1804/LeetCode/tree/master/0441-arranging-coins) |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## String
@@ -114,6 +115,7 @@ LeetCode Only
 | [0033-search-in-rotated-sorted-array](https://github.com/sanchit1804/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanchit1804/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/sanchit1804/LeetCode/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
