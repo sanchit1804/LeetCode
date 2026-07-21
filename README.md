@@ -18,6 +18,7 @@ LeetCode Only
 | [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
 | [0376-wiggle-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/sanchit1804/LeetCode/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/sanchit1804/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0682-baseball-game](https://github.com/sanchit1804/LeetCode/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/sanchit1804/LeetCode/tree/master/0860-lemonade-change) |
@@ -110,6 +111,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanchit1804/LeetCode/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/sanchit1804/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sanchit1804/LeetCode/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
@@ -140,4 +142,8 @@ LeetCode Only
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanchit1804/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/sanchit1804/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
