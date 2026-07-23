@@ -10,6 +10,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanchit1804/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sanchit1804/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanchit1804/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanchit1804/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -41,6 +42,7 @@ LeetCode Only
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sanchit1804/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sanchit1804/LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/sanchit1804/LeetCode/tree/master/0179-largest-number) |
@@ -139,6 +141,7 @@ LeetCode Only
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sanchit1804/LeetCode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/sanchit1804/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sanchit1804/LeetCode/tree/master/0455-assign-cookies) |
