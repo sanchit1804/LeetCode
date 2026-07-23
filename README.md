@@ -17,6 +17,7 @@ LeetCode Only
 | [0134-gas-station](https://github.com/sanchit1804/LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/sanchit1804/LeetCode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sanchit1804/LeetCode/tree/master/0283-move-zeroes) |
 | [0376-wiggle-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/sanchit1804/LeetCode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/sanchit1804/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -136,6 +137,7 @@ LeetCode Only
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/sanchit1804/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sanchit1804/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/sanchit1804/LeetCode/tree/master/0567-permutation-in-string) |
