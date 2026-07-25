@@ -12,6 +12,7 @@ LeetCode Only
 | [0001-two-sum](https://github.com/sanchit1804/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sanchit1804/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanchit1804/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanchit1804/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sanchit1804/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -38,6 +39,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanchit1804/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
 | [0213-house-robber-ii](https://github.com/sanchit1804/LeetCode/tree/master/0213-house-robber-ii) |
 | [0376-wiggle-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0376-wiggle-subsequence) |
@@ -179,4 +181,8 @@ LeetCode Only
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sanchit1804/LeetCode/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
