@@ -15,6 +15,7 @@ LeetCode Only
 | [0053-maximum-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanchit1804/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit1804/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sanchit1804/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sanchit1804/LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/sanchit1804/LeetCode/tree/master/0179-largest-number) |
@@ -44,6 +45,7 @@ LeetCode Only
 | [0053-maximum-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sanchit1804/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit1804/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sanchit1804/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sanchit1804/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/sanchit1804/LeetCode/tree/master/0322-coin-change) |
