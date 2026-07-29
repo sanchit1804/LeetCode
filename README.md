@@ -33,6 +33,7 @@ LeetCode Only
 | [0735-asteroid-collision](https://github.com/sanchit1804/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sanchit1804/LeetCode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/sanchit1804/LeetCode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/sanchit1804/LeetCode/tree/master/0867-transpose-matrix) |
 | [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanchit1804/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -85,6 +86,7 @@ LeetCode Only
 | ------- |
 | [0682-baseball-game](https://github.com/sanchit1804/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sanchit1804/LeetCode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/sanchit1804/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -198,4 +200,8 @@ LeetCode Only
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/sanchit1804/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
