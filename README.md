@@ -14,6 +14,7 @@ LeetCode Only
 | [0033-search-in-rotated-sorted-array](https://github.com/sanchit1804/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/sanchit1804/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanchit1804/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit1804/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sanchit1804/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -46,6 +47,7 @@ LeetCode Only
 | [0053-maximum-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sanchit1804/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/sanchit1804/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sanchit1804/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit1804/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sanchit1804/LeetCode/tree/master/0198-house-robber) |
@@ -205,6 +207,7 @@ LeetCode Only
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sanchit1804/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0867-transpose-matrix](https://github.com/sanchit1804/LeetCode/tree/master/0867-transpose-matrix) |
 ## Combinatorics
 |  |
