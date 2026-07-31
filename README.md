@@ -57,6 +57,7 @@ LeetCode Only
 | [0392-is-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sanchit1804/LeetCode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/sanchit1804/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +131,7 @@ LeetCode Only
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/sanchit1804/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sanchit1804/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanchit1804/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/sanchit1804/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sanchit1804/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
