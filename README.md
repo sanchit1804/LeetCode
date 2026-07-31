@@ -49,6 +49,7 @@ LeetCode Only
 | [0062-unique-paths](https://github.com/sanchit1804/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/sanchit1804/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sanchit1804/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/sanchit1804/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit1804/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sanchit1804/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sanchit1804/LeetCode/tree/master/0213-house-robber-ii) |
@@ -126,6 +127,7 @@ LeetCode Only
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanchit1804/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sanchit1804/LeetCode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/sanchit1804/LeetCode/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/sanchit1804/LeetCode/tree/master/0179-largest-number) |
 | [0392-is-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
