@@ -39,6 +39,7 @@ LeetCode Only
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanchit1804/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanchit1804/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/sanchit1804/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sanchit1804/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 ## Dynamic Programming
 |  |
@@ -70,6 +71,7 @@ LeetCode Only
 | [0376-wiggle-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/sanchit1804/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/sanchit1804/LeetCode/tree/master/0860-lemonade-change) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/sanchit1804/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Tree
 |  |
 | ------- |
