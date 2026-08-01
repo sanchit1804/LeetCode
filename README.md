@@ -35,6 +35,7 @@ LeetCode Only
 | [0739-daily-temperatures](https://github.com/sanchit1804/LeetCode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/sanchit1804/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/sanchit1804/LeetCode/tree/master/0867-transpose-matrix) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanchit1804/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanchit1804/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -61,6 +62,7 @@ LeetCode Only
 | [0583-delete-operation-for-two-strings](https://github.com/sanchit1804/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/sanchit1804/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanchit1804/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Greedy
 |  |
 | ------- |
