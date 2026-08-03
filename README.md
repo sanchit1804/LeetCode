@@ -55,6 +55,7 @@ LeetCode Only
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit1804/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sanchit1804/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sanchit1804/LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/sanchit1804/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sanchit1804/LeetCode/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0392-is-subsequence) |
@@ -86,6 +87,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sanchit1804/LeetCode/tree/master/0100-same-tree) |
+| [0279-perfect-squares](https://github.com/sanchit1804/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sanchit1804/LeetCode/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
@@ -125,6 +127,7 @@ LeetCode Only
 | [0062-unique-paths](https://github.com/sanchit1804/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sanchit1804/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/sanchit1804/LeetCode/tree/master/0279-perfect-squares) |
 | [0441-arranging-coins](https://github.com/sanchit1804/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/sanchit1804/LeetCode/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -229,4 +232,12 @@ LeetCode Only
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sanchit1804/LeetCode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sanchit1804/LeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sanchit1804/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
