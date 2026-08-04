@@ -19,6 +19,7 @@ LeetCode Only
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit1804/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sanchit1804/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sanchit1804/LeetCode/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/sanchit1804/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/sanchit1804/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sanchit1804/LeetCode/tree/master/0213-house-robber-ii) |
@@ -53,6 +54,7 @@ LeetCode Only
 | [0070-climbing-stairs](https://github.com/sanchit1804/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sanchit1804/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit1804/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sanchit1804/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sanchit1804/LeetCode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/sanchit1804/LeetCode/tree/master/0279-perfect-squares) |
