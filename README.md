@@ -42,6 +42,7 @@ LeetCode Only
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanchit1804/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanchit1804/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/sanchit1804/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanchit1804/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sanchit1804/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 ## Dynamic Programming
 |  |
@@ -67,6 +68,7 @@ LeetCode Only
 | [1025-divisor-game](https://github.com/sanchit1804/LeetCode/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanchit1804/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanchit1804/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +80,7 @@ LeetCode Only
 | [0455-assign-cookies](https://github.com/sanchit1804/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/sanchit1804/LeetCode/tree/master/0860-lemonade-change) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/sanchit1804/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanchit1804/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Tree
 |  |
 | ------- |
@@ -153,6 +156,7 @@ LeetCode Only
 | [1143-longest-common-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanchit1804/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/sanchit1804/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanchit1804/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sanchit1804/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sorting
 |  |
