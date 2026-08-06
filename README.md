@@ -14,6 +14,7 @@ LeetCode Only
 | [0033-search-in-rotated-sorted-array](https://github.com/sanchit1804/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/sanchit1804/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/sanchit1804/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanchit1804/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit1804/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -166,6 +167,7 @@ LeetCode Only
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sanchit1804/LeetCode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/sanchit1804/LeetCode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/sanchit1804/LeetCode/tree/master/0455-assign-cookies) |
@@ -269,4 +271,8 @@ LeetCode Only
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sanchit1804/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sanchit1804/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
