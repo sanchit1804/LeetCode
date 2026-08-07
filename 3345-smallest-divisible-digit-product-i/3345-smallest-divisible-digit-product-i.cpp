@@ -1,0 +1,16 @@
+class Solution {
+public:
+    int smallestNumber(int n, int t) {
+        while(n){
+            int x=n;
+            int product=1;
+            while(x>0){
+                product*=x%10;
+                x=x/10;
+            }
+            if(product%t==0) return n;
+            else n++;
+        }
+        return 1;
+    }
+};
