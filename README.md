@@ -21,6 +21,7 @@ LeetCode Only
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit1804/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sanchit1804/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sanchit1804/LeetCode/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/sanchit1804/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/sanchit1804/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/sanchit1804/LeetCode/tree/master/0198-house-robber) |
@@ -59,6 +60,7 @@ LeetCode Only
 | [0070-climbing-stairs](https://github.com/sanchit1804/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sanchit1804/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchit1804/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/sanchit1804/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sanchit1804/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sanchit1804/LeetCode/tree/master/0213-house-robber-ii) |
@@ -122,6 +124,7 @@ LeetCode Only
 | [0001-two-sum](https://github.com/sanchit1804/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanchit1804/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/sanchit1804/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/sanchit1804/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sanchit1804/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sanchit1804/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -162,6 +165,7 @@ LeetCode Only
 | [0005-longest-palindromic-substring](https://github.com/sanchit1804/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sanchit1804/LeetCode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/sanchit1804/LeetCode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/sanchit1804/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/sanchit1804/LeetCode/tree/master/0179-largest-number) |
 | [0392-is-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -244,6 +248,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanchit1804/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sanchit1804/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/sanchit1804/LeetCode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -291,4 +296,12 @@ LeetCode Only
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sanchit1804/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sanchit1804/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
