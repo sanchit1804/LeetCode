@@ -12,6 +12,7 @@ LeetCode Only
 | [0001-two-sum](https://github.com/sanchit1804/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sanchit1804/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanchit1804/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/sanchit1804/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sanchit1804/LeetCode/tree/master/0056-merge-intervals) |
@@ -56,6 +57,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanchit1804/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/sanchit1804/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sanchit1804/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sanchit1804/LeetCode/tree/master/0062-unique-paths) |
@@ -85,6 +87,7 @@ LeetCode Only
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanchit1804/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/sanchit1804/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sanchit1804/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sanchit1804/LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/sanchit1804/LeetCode/tree/master/0179-largest-number) |
