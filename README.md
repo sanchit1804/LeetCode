@@ -46,6 +46,7 @@ LeetCode Only
 | [0867-transpose-matrix](https://github.com/sanchit1804/LeetCode/tree/master/0867-transpose-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanchit1804/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/sanchit1804/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1480-running-sum-of-1d-array](https://github.com/sanchit1804/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanchit1804/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -265,6 +266,7 @@ LeetCode Only
 | [0238-product-of-array-except-self](https://github.com/sanchit1804/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sanchit1804/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sanchit1804/LeetCode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/sanchit1804/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Memoization
 |  |
 | ------- |
