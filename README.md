@@ -56,6 +56,7 @@ LeetCode Only
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanchit1804/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanchit1804/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sanchit1804/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/sanchit1804/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@ LeetCode Only
 | [0735-asteroid-collision](https://github.com/sanchit1804/LeetCode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/sanchit1804/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [3925-concatenate-array-with-reverse](https://github.com/sanchit1804/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
