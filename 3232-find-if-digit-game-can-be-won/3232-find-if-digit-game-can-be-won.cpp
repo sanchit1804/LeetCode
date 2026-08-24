@@ -8,8 +8,6 @@ public:
             if(nums[i]>9) DoubleDigit+=nums[i];
             else SingleDigit+=nums[i];
         }
-        if(SingleDigit==DoubleDigit) return false;
-        
-        return true;
-    }
+        return SingleDigit!=DoubleDigit;
+        }
 };
