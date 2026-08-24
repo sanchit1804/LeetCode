@@ -56,6 +56,7 @@ LeetCode Only
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanchit1804/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanchit1804/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sanchit1804/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/sanchit1804/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3925-concatenate-array-with-reverse](https://github.com/sanchit1804/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
@@ -176,6 +177,7 @@ LeetCode Only
 | [1025-divisor-game](https://github.com/sanchit1804/LeetCode/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanchit1804/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/sanchit1804/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanchit1804/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sanchit1804/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sanchit1804/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
