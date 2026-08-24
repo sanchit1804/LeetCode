@@ -178,6 +178,7 @@ LeetCode Only
 | [1025-divisor-game](https://github.com/sanchit1804/LeetCode/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanchit1804/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/sanchit1804/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sanchit1804/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanchit1804/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sanchit1804/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
