@@ -55,6 +55,7 @@ LeetCode Only
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanchit1804/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/sanchit1804/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanchit1804/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2942-find-words-containing-character](https://github.com/sanchit1804/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanchit1804/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sanchit1804/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sanchit1804/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -205,6 +206,7 @@ LeetCode Only
 | [2833-furthest-point-from-origin](https://github.com/sanchit1804/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanchit1804/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sanchit1804/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [2942-find-words-containing-character](https://github.com/sanchit1804/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
 | ------- |
