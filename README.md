@@ -126,6 +126,7 @@ LeetCode Only
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sanchit1804/LeetCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/sanchit1804/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sanchit1804/LeetCode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/sanchit1804/LeetCode/tree/master/0867-transpose-matrix) |
@@ -166,6 +167,7 @@ LeetCode Only
 | [0002-add-two-numbers](https://github.com/sanchit1804/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/sanchit1804/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sanchit1804/LeetCode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/sanchit1804/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sanchit1804/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/sanchit1804/LeetCode/tree/master/0279-perfect-squares) |
 | [0441-arranging-coins](https://github.com/sanchit1804/LeetCode/tree/master/0441-arranging-coins) |
@@ -260,6 +262,7 @@ LeetCode Only
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sanchit1804/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanchit1804/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Monotonic Stack
 |  |
