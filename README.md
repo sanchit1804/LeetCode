@@ -45,6 +45,7 @@ LeetCode Only
 | [0739-daily-temperatures](https://github.com/sanchit1804/LeetCode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/sanchit1804/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/sanchit1804/LeetCode/tree/master/0867-transpose-matrix) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sanchit1804/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanchit1804/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/sanchit1804/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/sanchit1804/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -155,6 +156,7 @@ LeetCode Only
 | [0567-permutation-in-string](https://github.com/sanchit1804/LeetCode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/sanchit1804/LeetCode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/sanchit1804/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sanchit1804/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/sanchit1804/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sanchit1804/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -362,4 +364,8 @@ LeetCode Only
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sanchit1804/LeetCode/tree/master/0139-word-break) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sanchit1804/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
