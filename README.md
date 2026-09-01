@@ -195,6 +195,7 @@ LeetCode Only
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sanchit1804/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sanchit1804/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sanchit1804/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sanchit1804/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanchit1804/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sanchit1804/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sanchit1804/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -223,6 +224,7 @@ LeetCode Only
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanchit1804/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sanchit1804/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/sanchit1804/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sanchit1804/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3884-first-matching-character-from-both-ends](https://github.com/sanchit1804/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
