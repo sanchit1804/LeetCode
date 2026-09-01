@@ -152,6 +152,7 @@ LeetCode Only
 | [0560-subarray-sum-equals-k](https://github.com/sanchit1804/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sanchit1804/LeetCode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/sanchit1804/LeetCode/tree/master/0763-partition-labels) |
+| [0771-jewels-and-stones](https://github.com/sanchit1804/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/sanchit1804/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sanchit1804/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -208,6 +209,7 @@ LeetCode Only
 | [0647-palindromic-substrings](https://github.com/sanchit1804/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/sanchit1804/LeetCode/tree/master/0709-to-lower-case) |
 | [0763-partition-labels](https://github.com/sanchit1804/LeetCode/tree/master/0763-partition-labels) |
+| [0771-jewels-and-stones](https://github.com/sanchit1804/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1143-longest-common-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sanchit1804/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanchit1804/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
