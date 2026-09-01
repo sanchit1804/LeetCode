@@ -221,6 +221,7 @@ LeetCode Only
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanchit1804/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sanchit1804/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/sanchit1804/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3884-first-matching-character-from-both-ends](https://github.com/sanchit1804/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
 | ------- |
@@ -271,6 +272,7 @@ LeetCode Only
 | [0567-permutation-in-string](https://github.com/sanchit1804/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sanchit1804/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/sanchit1804/LeetCode/tree/master/0763-partition-labels) |
+| [3884-first-matching-character-from-both-ends](https://github.com/sanchit1804/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sliding Window
 |  |
 | ------- |
