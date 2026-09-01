@@ -63,6 +63,7 @@ LeetCode Only
 | [3131-find-the-integer-added-to-array-i](https://github.com/sanchit1804/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sanchit1804/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanchit1804/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3842-toggle-light-bulbs](https://github.com/sanchit1804/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/sanchit1804/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
@@ -139,6 +140,7 @@ LeetCode Only
 | [0867-transpose-matrix](https://github.com/sanchit1804/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sanchit1804/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3842-toggle-light-bulbs](https://github.com/sanchit1804/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/sanchit1804/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -159,6 +161,7 @@ LeetCode Only
 | [2215-find-the-difference-of-two-arrays](https://github.com/sanchit1804/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanchit1804/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanchit1804/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3842-toggle-light-bulbs](https://github.com/sanchit1804/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Linked List
 |  |
 | ------- |
@@ -228,6 +231,7 @@ LeetCode Only
 | [0455-assign-cookies](https://github.com/sanchit1804/LeetCode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sanchit1804/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [3842-toggle-light-bulbs](https://github.com/sanchit1804/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Counting
 |  |
 | ------- |
