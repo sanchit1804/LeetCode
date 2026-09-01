@@ -1,15 +1,12 @@
 class Solution {
 public:
     vector<int> toggleLightBulbs(vector<int>& bulbs) {
-        unordered_map<int,int> mp;
-        for(int i=0;i<bulbs.size();i++){
-            mp[bulbs[i]]++;
+        set<int> mp;
+
+        for(auto x:bulbs){
+            if(mp.find(x)==mp.end()) mp.insert(x);
+            else mp.erase(x);
         }
-        vector<int> ans;
-        for(auto x:mp){
-            if(x.second%2==1) ans.push_back(x.first);
-        }
-        sort(ans.begin(),ans.end());
-        return ans;
+        return vector<int>(mp.begin(),mp.end());
     }
 };
