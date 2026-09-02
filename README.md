@@ -43,6 +43,7 @@ LeetCode Only
 | [0724-find-pivot-index](https://github.com/sanchit1804/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sanchit1804/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sanchit1804/LeetCode/tree/master/0739-daily-temperatures) |
+| [0849-maximize-distance-to-closest-person](https://github.com/sanchit1804/LeetCode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0860-lemonade-change](https://github.com/sanchit1804/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/sanchit1804/LeetCode/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sanchit1804/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
