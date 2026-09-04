@@ -55,6 +55,7 @@ LeetCode Only
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanchit1804/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanchit1804/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sanchit1804/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanchit1804/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sanchit1804/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sanchit1804/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -142,6 +143,7 @@ LeetCode Only
 | [0735-asteroid-collision](https://github.com/sanchit1804/LeetCode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/sanchit1804/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/sanchit1804/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sanchit1804/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sanchit1804/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3842-toggle-light-bulbs](https://github.com/sanchit1804/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/sanchit1804/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -223,6 +225,7 @@ LeetCode Only
 | [1143-longest-common-subsequence](https://github.com/sanchit1804/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sanchit1804/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sanchit1804/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sanchit1804/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanchit1804/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2833-furthest-point-from-origin](https://github.com/sanchit1804/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanchit1804/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
