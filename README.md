@@ -233,6 +233,7 @@ LeetCode Only
 | [2942-find-words-containing-character](https://github.com/sanchit1804/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/sanchit1804/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3884-first-matching-character-from-both-ends](https://github.com/sanchit1804/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3931-check-adjacent-digit-differences](https://github.com/sanchit1804/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 ## Sorting
 |  |
 | ------- |
