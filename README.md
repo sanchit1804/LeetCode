@@ -49,6 +49,7 @@ LeetCode Only
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sanchit1804/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sanchit1804/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/sanchit1804/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sanchit1804/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1480-running-sum-of-1d-array](https://github.com/sanchit1804/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/sanchit1804/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -195,6 +196,7 @@ LeetCode Only
 | [0509-fibonacci-number](https://github.com/sanchit1804/LeetCode/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/sanchit1804/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1025-divisor-game](https://github.com/sanchit1804/LeetCode/tree/master/1025-divisor-game) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sanchit1804/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/sanchit1804/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanchit1804/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sanchit1804/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
